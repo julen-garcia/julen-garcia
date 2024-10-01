@@ -1,4 +1,4 @@
-## Hello there 👋
+### Hello there 👋
 
 #### Software developer mostly messing with wires. Yes, I use LabVIEW
 
